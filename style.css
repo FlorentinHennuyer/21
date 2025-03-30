@@ -9,7 +9,7 @@ body {
     margin: 0;
     padding: 0;
     max-width: 100%;
-   
+    font-family: 'casino';
 }
 
 .navbar {
@@ -55,7 +55,8 @@ body {
         .card-tout {
             display: flex;
             justify-content: left;
-            
+            font-family: 'casino';
+            font-weight: bold;
             height: 100vh;
            
             padding: 50px;
@@ -165,6 +166,8 @@ body {
     background-color: #1c1c1c;
     padding: 40px 20px;
     text-align: center;
+    font-family: 'casino';
+    font
 }
 .footer h2, .footer h3 {
     margin: 0;
@@ -261,6 +264,6 @@ h2 {
     margin-bottom: 10px;
 }
 p {
-    color: #777;
+    color: ;
     font-size: 1.1em;
 }
